@@ -1,0 +1,78 @@
+body{
+    margin: 0;
+    padding: 50px 0px;
+    background: radial-gradient(#1e8fa5 ,#08506b ,black) no-repeat fixed;
+    border-bottom: 2px solid #d23200;
+    border-top: 2px solid #d23200;
+    border-left: 2px solid #d23200;
+    border-right: 2px solid #d23200;
+
+
+}
+h1.main{
+    color: white;
+    font-family: cursive;
+    background: radial-gradient(#1e8fa5 ,#08506b ) no-repeat fixed;
+    border-bottom: 2px solid #c4c1c0;
+    border-top: 2px solid #c4c1c0;
+    border-left: 2px solid #c4c1c0;
+    border-right: 2px solid #c4c1c0;
+}
+button.clear{
+    background-color:#d23200;
+    color: black;
+}
+table{
+    background-color: black;
+    padding: 7px 5px;
+    border: 6px solid black;
+    text-align: center;
+    padding-bottom: 0px;
+    box-shadow: 0px 0px 27px #0d5569;
+    border-radius: 10px;
+    margin-top: 90px;
+    border-bottom: 2px solid #d23200;
+    border-top: 2px solid #d23200;
+    border-left: 2px solid #d23200;
+    border-right: 2px solid #d23200;
+}
+button.equal{
+    width: 88%;
+    background:black
+
+}
+button.equal:hover{
+    background-color: #000803;
+}
+input[type="text"]{
+    width: 450px;
+    height: 81px;
+    border: 1px solid #000;
+    padding: 10px 20px;
+    font-size: 29px;
+    background: black;
+    font-weight: bold;
+    margin-bottom: 25px;
+    font-family: cursive;
+    margin-top: #dedede;
+    border-bottom: 2px solid #c4c1c0;
+    color: blanchedalmond;
+}
+ button{
+     padding: 10px 20px;
+     width: 100px;
+     height: 60px;
+     margin-bottom: 20px;
+     font-size: 26px;
+     font-weight: bold;
+     font-family: cursive ;
+     /* background: #00803; */
+     border: none ;
+     color:#d23200;
+     border-radius: 6px;
+     cursor: pointer;
+
+ }
+ button:hover{
+     background: black;
+ }
